@@ -29,4 +29,4 @@ Este projeto é uma aplicação **.NET Console** que permite cadastrar compromis
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+   git clone (https://github.com/Breqsz/ConversorFusoHorario.git)
